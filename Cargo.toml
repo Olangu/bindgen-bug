@@ -1,0 +1,10 @@
+[package]
+name = "bindgen-bug"
+version = "0.1.0"
+authors = ["Andreas Gustafsson <olangu@impressions.se>"]
+edition = "2018"
+
+[dependencies]
+
+[build-dependencies]
+bindgen = "0.52.0"
